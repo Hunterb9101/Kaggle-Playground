@@ -27,7 +27,7 @@ dependencies = [
 license = {text = "open source"}
 
 [project.urls]
-homepage = "https://github.com/dannbuckley/Kaggle-Playground-S3E14"
+homepage = "https://github.com/Hunterb9101/Kaggle-Playground"
 
 [tool.setuptools.dynamic]
 version = {attr = "kp.__version__"}
